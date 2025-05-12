@@ -5,3 +5,5 @@ adding a new line 4
 changes made for new feature
 
 added a new line for feature 2
+for conflict
+for conflict
